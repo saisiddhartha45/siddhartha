@@ -1,4 +1,4 @@
 Hello World,
-My name is "name".
-I'm from "place".
+My name is "Nithin".
+I'm from "Nizamabad".
 Thank you.
